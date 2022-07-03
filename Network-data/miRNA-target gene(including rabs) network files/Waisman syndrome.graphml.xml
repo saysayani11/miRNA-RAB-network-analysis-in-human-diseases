@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_abundance" for="node" attr.name="abundance" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">hsa-mir-101-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">hsa-mir-1-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">hsa-mir-144-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">hsa-mir-520g-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">hsa-mir-520h</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">hsa-let-7f-2-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">hsa-mir-548l</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">hsa-mir-548n</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">hsa-mir-3065-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">hsa-mir-3609</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">hsa-mir-3915</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">hsa-mir-3928-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">hsa-mir-548ah-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">hsa-mir-4766-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">hsa-mir-4778-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">hsa-mir-5003-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">hsa-mir-1185-2-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">hsa-mir-3529-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">hsa-mir-1185-1-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">hsa-mir-6124</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">RAB39B</data>
+      <data key="v_abundance">*</data>
+    </node>
+    <edge source="n0" target="n20">
+    </edge>
+    <edge source="n1" target="n20">
+    </edge>
+    <edge source="n2" target="n20">
+    </edge>
+    <edge source="n3" target="n20">
+    </edge>
+    <edge source="n4" target="n20">
+    </edge>
+    <edge source="n5" target="n20">
+    </edge>
+    <edge source="n6" target="n20">
+    </edge>
+    <edge source="n7" target="n20">
+    </edge>
+    <edge source="n8" target="n20">
+    </edge>
+    <edge source="n9" target="n20">
+    </edge>
+    <edge source="n10" target="n20">
+    </edge>
+    <edge source="n11" target="n20">
+    </edge>
+    <edge source="n12" target="n20">
+    </edge>
+    <edge source="n13" target="n20">
+    </edge>
+    <edge source="n14" target="n20">
+    </edge>
+    <edge source="n15" target="n20">
+    </edge>
+    <edge source="n16" target="n20">
+    </edge>
+    <edge source="n17" target="n20">
+    </edge>
+    <edge source="n18" target="n20">
+    </edge>
+    <edge source="n19" target="n20">
+    </edge>
+  </graph>
+</graphml>
