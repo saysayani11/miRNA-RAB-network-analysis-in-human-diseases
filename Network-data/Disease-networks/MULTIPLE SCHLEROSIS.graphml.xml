@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_abundance" for="node" attr.name="abundance" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">hsa-mir-125b-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">hsa-mir-125a-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">hsa-mir-188-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">hsa-mir-485-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">hsa-mir-494-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">hsa-mir-623</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">hsa-mir-634</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">hsa-mir-30c-2-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">hsa-mir-30b-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">hsa-mir-149-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">hsa-mir-30c-1-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">hsa-mir-488-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">hsa-mir-877-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">hsa-mir-665</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">hsa-mir-1291</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">hsa-mir-1537-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">hsa-mir-3122</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">hsa-mir-3148</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">hsa-mir-4319</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">hsa-mir-4290</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">hsa-mir-3609</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">hsa-mir-3689a-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">hsa-mir-3689b-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">hsa-mir-3913-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">hsa-mir-3929</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">hsa-mir-548ah-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">hsa-mir-4478</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">hsa-mir-3689c</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">hsa-mir-4419b</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">hsa-mir-4517</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">hsa-mir-4687-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">hsa-mir-4728-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">hsa-mir-4731-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">hsa-mir-4747-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">hsa-mir-4780</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">hsa-mir-5089-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">hsa-mir-5196-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">hsa-mir-5580-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">hsa-mir-5589-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">hsa-mir-5681a</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">hsa-mir-450a-1-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">hsa-mir-1292-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">hsa-mir-6134</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">hsa-mir-6506-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">hsa-mir-6513-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">hsa-mir-383-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">hsa-mir-519d-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">hsa-mir-619-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">hsa-mir-651-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">hsa-mir-887-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">hsa-mir-6730-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">hsa-mir-6775-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">hsa-mir-6779-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">hsa-mir-6780a-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">hsa-mir-6785-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">hsa-mir-6788-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">hsa-mir-6799-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">hsa-mir-6807-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">hsa-mir-6780b-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">hsa-mir-6866-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">hsa-mir-6866-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">hsa-mir-6883-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">hsa-mir-6884-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">hsa-mir-7106-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">hsa-mir-7160-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">hsa-mir-7162-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">hsa-mir-1273h-5p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">hsa-mir-7854-3p</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">hsa-mir-7976</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">hsa-mir-7977</data>
+      <data key="v_abundance">NA</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">RAB4A</data>
+      <data key="v_abundance">0</data>
+    </node>
+    <edge source="n0" target="n70">
+    </edge>
+    <edge source="n1" target="n70">
+    </edge>
+    <edge source="n2" target="n70">
+    </edge>
+    <edge source="n3" target="n70">
+    </edge>
+    <edge source="n4" target="n70">
+    </edge>
+    <edge source="n5" target="n70">
+    </edge>
+    <edge source="n6" target="n70">
+    </edge>
+    <edge source="n7" target="n70">
+    </edge>
+    <edge source="n8" target="n70">
+    </edge>
+    <edge source="n9" target="n70">
+    </edge>
+    <edge source="n10" target="n70">
+    </edge>
+    <edge source="n11" target="n70">
+    </edge>
+    <edge source="n12" target="n70">
+    </edge>
+    <edge source="n13" target="n70">
+    </edge>
+    <edge source="n14" target="n70">
+    </edge>
+    <edge source="n15" target="n70">
+    </edge>
+    <edge source="n16" target="n70">
+    </edge>
+    <edge source="n17" target="n70">
+    </edge>
+    <edge source="n18" target="n70">
+    </edge>
+    <edge source="n19" target="n70">
+    </edge>
+    <edge source="n20" target="n70">
+    </edge>
+    <edge source="n21" target="n70">
+    </edge>
+    <edge source="n22" target="n70">
+    </edge>
+    <edge source="n23" target="n70">
+    </edge>
+    <edge source="n24" target="n70">
+    </edge>
+    <edge source="n25" target="n70">
+    </edge>
+    <edge source="n26" target="n70">
+    </edge>
+    <edge source="n27" target="n70">
+    </edge>
+    <edge source="n28" target="n70">
+    </edge>
+    <edge source="n29" target="n70">
+    </edge>
+    <edge source="n30" target="n70">
+    </edge>
+    <edge source="n31" target="n70">
+    </edge>
+    <edge source="n32" target="n70">
+    </edge>
+    <edge source="n33" target="n70">
+    </edge>
+    <edge source="n34" target="n70">
+    </edge>
+    <edge source="n35" target="n70">
+    </edge>
+    <edge source="n36" target="n70">
+    </edge>
+    <edge source="n37" target="n70">
+    </edge>
+    <edge source="n38" target="n70">
+    </edge>
+    <edge source="n39" target="n70">
+    </edge>
+    <edge source="n40" target="n70">
+    </edge>
+    <edge source="n41" target="n70">
+    </edge>
+    <edge source="n42" target="n70">
+    </edge>
+    <edge source="n43" target="n70">
+    </edge>
+    <edge source="n44" target="n70">
+    </edge>
+    <edge source="n45" target="n70">
+    </edge>
+    <edge source="n46" target="n70">
+    </edge>
+    <edge source="n47" target="n70">
+    </edge>
+    <edge source="n48" target="n70">
+    </edge>
+    <edge source="n49" target="n70">
+    </edge>
+    <edge source="n50" target="n70">
+    </edge>
+    <edge source="n51" target="n70">
+    </edge>
+    <edge source="n52" target="n70">
+    </edge>
+    <edge source="n53" target="n70">
+    </edge>
+    <edge source="n54" target="n70">
+    </edge>
+    <edge source="n55" target="n70">
+    </edge>
+    <edge source="n56" target="n70">
+    </edge>
+    <edge source="n57" target="n70">
+    </edge>
+    <edge source="n58" target="n70">
+    </edge>
+    <edge source="n59" target="n70">
+    </edge>
+    <edge source="n60" target="n70">
+    </edge>
+    <edge source="n61" target="n70">
+    </edge>
+    <edge source="n62" target="n70">
+    </edge>
+    <edge source="n63" target="n70">
+    </edge>
+    <edge source="n64" target="n70">
+    </edge>
+    <edge source="n65" target="n70">
+    </edge>
+    <edge source="n66" target="n70">
+    </edge>
+    <edge source="n67" target="n70">
+    </edge>
+    <edge source="n68" target="n70">
+    </edge>
+    <edge source="n69" target="n70">
+    </edge>
+  </graph>
+</graphml>
