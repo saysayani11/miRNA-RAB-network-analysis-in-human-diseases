@@ -23,6 +23,17 @@ Rabs, network biology, miRNA, Rab associated diseases, enrichment analysis, netw
 
 6. In most of the plots, we find a general trend: for nodes with higher degrees, the average clustering coefficient is low and for nodes with low degrees, the average clustering coefficient is high. A trend analysis was performed and the curve of the form y=axb gave the best fit on the clustering coefficient, closeness centrality, and Betweenness centrality plots of the networks.
 
+
+## KEY POINTS AND HIGHLIGHTS
+
+1. Identification of Rab associated diseases in a systematic approach, dividing them into categories.
+2. Investigation of the miRNAs that alter/target/modify Rabs and may be involved in these diseases.
+3. A network biology approach to build miRNA-gene co-expression network models for these diseases, and the extraction of Rab sub-networks to propose miRNA-Rab co-expression networks. 
+4. In large networks, Rabs were found to ‘group’ together.
+5. Deletion analysis proved that since most biological networks are scale-free, the deletion of Rabs did not affect the overall degree distribution.
+6.However, few links that were broken were enough to cause disease. 
+7. Few diseases have been observed to share common genes, which in turn suggest that the diseases might have a common genetic origin, for example, breast carcinoma and ovarian carcinoma.
+
 ## NETWORK AVAILABILITY
 
 Please go over to the main repository for all network-related data
