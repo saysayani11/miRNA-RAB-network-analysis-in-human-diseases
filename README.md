@@ -1,4 +1,4 @@
-## MSc THESIS TITLE: 
+## Masters' THESIS TITLE: 
 
 "Construction of microRNA based gene co-expression networks and analysis of microRNA-target Rab sub-networks in human Rab-associated disorders- a network biology approach"
 
